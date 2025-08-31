@@ -1,0 +1,11 @@
+body {
+    color: white;
+    background-color: black;
+}
+#heading{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#platform{
+    background-color: #262626;
+}
